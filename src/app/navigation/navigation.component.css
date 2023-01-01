@@ -1,0 +1,35 @@
+.nav-item{
+    text-align: right;
+}
+.hh{
+    height: 100%;
+}
+/* .landingPage{
+
+    height: 100vh;
+} */
+.about{
+    background: #000;
+    position:relative;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    top: 0;
+    height: 100vh;
+}
+.Hm40{
+    margin-left: 20%;
+    margin-top: 20%;
+}
+.Wm40{
+    margin-left: 20%;
+}
+.Contact{
+    background: #000;
+    position:relative;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    top: 0;
+    height: 100vh;
+}
